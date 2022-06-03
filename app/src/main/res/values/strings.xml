@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Практическая работа 11</string>
+    <string name="registration">Регистрация</string>
+    <string name="help">Помощь</string>
+    <string name="log_in">Вход</string>
+    <string name="ask_accept_tos">Пожалуйста, примите условия использования</string>
+    <string name="ask_fill_fields">Пожалуйста, заполните все поля</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="tos_checkbox">Согласен(-а) с условиями использования и политикой конфиденциальности</string>
+    <string name="first_name_field_hint">Введите ваше имя</string>
+    <string name="last_name_field_hint">Введите вашу фамилию</string>
+    <string name="phone_number_field_hint">Введите ваш контактный номер</string>
+    <string name="user_name">Иван,</string>
+    <string name="greetings">приветствуем вас в нашем приложении.</string>
+    <string name="more_info">Подробная информация</string>
+    <string name="recommendations">Предложения</string>
+    <string name="profile_picture">Картинка профиля</string>
+</resources>
